@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fugyu\\source\\repos\\CustomFontDialogTester\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF925F89-325E-4E2F-B4E2-F287006717D4}|CustomFontDialogTester\\CustomFontDialogTester.csproj|c:\\users\\fugyu\\source\\repos\\customfontdialogtester\\customfontdialogtester\\fontform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF925F89-325E-4E2F-B4E2-F287006717D4}|CustomFontDialogTester\\CustomFontDialogTester.csproj|solutionrelative:customfontdialogtester\\fontform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF925F89-325E-4E2F-B4E2-F287006717D4}|CustomFontDialogTester\\CustomFontDialogTester.csproj|C:\\Users\\fugyu\\source\\repos\\CustomFontDialogTester\\customfontdialogtester\\fontform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF925F89-325E-4E2F-B4E2-F287006717D4}|CustomFontDialogTester\\CustomFontDialogTester.csproj|solutionrelative:customfontdialogtester\\fontform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF925F89-325E-4E2F-B4E2-F287006717D4}|CustomFontDialogTester\\CustomFontDialogTester.csproj|C:\\Users\\fugyu\\source\\repos\\CustomFontDialogTester\\customfontdialogtester\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF925F89-325E-4E2F-B4E2-F287006717D4}|CustomFontDialogTester\\CustomFontDialogTester.csproj|solutionrelative:customfontdialogtester\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF925F89-325E-4E2F-B4E2-F287006717D4}|CustomFontDialogTester\\CustomFontDialogTester.csproj|C:\\Users\\fugyu\\source\\repos\\CustomFontDialogTester\\customfontdialogtester\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF925F89-325E-4E2F-B4E2-F287006717D4}|CustomFontDialogTester\\CustomFontDialogTester.csproj|solutionrelative:customfontdialogtester\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\fugyu\\source\\repos\\CustomFontDialogTester\\CustomFontDialogTester\\MainForm.cs",
+              "RelativeDocumentMoniker": "CustomFontDialogTester\\MainForm.cs",
+              "ToolTip": "C:\\Users\\fugyu\\source\\repos\\CustomFontDialogTester\\CustomFontDialogTester\\MainForm.cs",
+              "RelativeToolTip": "CustomFontDialogTester\\MainForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T06:58:30.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FontForm.cs",
+              "DocumentMoniker": "C:\\Users\\fugyu\\source\\repos\\CustomFontDialogTester\\CustomFontDialogTester\\FontForm.cs",
+              "RelativeDocumentMoniker": "CustomFontDialogTester\\FontForm.cs",
+              "ToolTip": "C:\\Users\\fugyu\\source\\repos\\CustomFontDialogTester\\CustomFontDialogTester\\FontForm.cs",
+              "RelativeToolTip": "CustomFontDialogTester\\FontForm.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwEsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T07:00:38.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FontForm.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\fugyu\\source\\repos\\CustomFontDialogTester\\CustomFontDialogTester\\FontForm.cs",
+              "RelativeDocumentMoniker": "CustomFontDialogTester\\FontForm.cs",
+              "ToolTip": "C:\\Users\\fugyu\\source\\repos\\CustomFontDialogTester\\CustomFontDialogTester\\FontForm.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "CustomFontDialogTester\\FontForm.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T06:57:59.892Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\fugyu\\source\\repos\\CustomFontDialogTester\\CustomFontDialogTester\\MainForm.cs",
+              "RelativeDocumentMoniker": "CustomFontDialogTester\\MainForm.cs",
+              "ToolTip": "C:\\Users\\fugyu\\source\\repos\\CustomFontDialogTester\\CustomFontDialogTester\\MainForm.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "CustomFontDialogTester\\MainForm.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T06:46:36.471Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

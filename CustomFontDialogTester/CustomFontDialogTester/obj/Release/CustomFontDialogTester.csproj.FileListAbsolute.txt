@@ -1,0 +1,11 @@
+C:\Users\fugyu\source\repos\CustomFontDialogTester\CustomFontDialogTester\bin\Release\CustomFontDialogTester.exe.config
+C:\Users\fugyu\source\repos\CustomFontDialogTester\CustomFontDialogTester\bin\Release\CustomFontDialogTester.exe
+C:\Users\fugyu\source\repos\CustomFontDialogTester\CustomFontDialogTester\bin\Release\CustomFontDialogTester.pdb
+C:\Users\fugyu\source\repos\CustomFontDialogTester\CustomFontDialogTester\obj\Release\CustomFontDialogTester.csproj.AssemblyReference.cache
+C:\Users\fugyu\source\repos\CustomFontDialogTester\CustomFontDialogTester\obj\Release\WindowsFormsFontDialog.FontForm.resources
+C:\Users\fugyu\source\repos\CustomFontDialogTester\CustomFontDialogTester\obj\Release\CustomFontDialogTester.MainForm.resources
+C:\Users\fugyu\source\repos\CustomFontDialogTester\CustomFontDialogTester\obj\Release\CustomFontDialogTester.Properties.Resources.resources
+C:\Users\fugyu\source\repos\CustomFontDialogTester\CustomFontDialogTester\obj\Release\CustomFontDialogTester.csproj.GenerateResource.cache
+C:\Users\fugyu\source\repos\CustomFontDialogTester\CustomFontDialogTester\obj\Release\CustomFontDialogTester.csproj.CoreCompileInputs.cache
+C:\Users\fugyu\source\repos\CustomFontDialogTester\CustomFontDialogTester\obj\Release\CustomFontDialogTester.exe
+C:\Users\fugyu\source\repos\CustomFontDialogTester\CustomFontDialogTester\obj\Release\CustomFontDialogTester.pdb
